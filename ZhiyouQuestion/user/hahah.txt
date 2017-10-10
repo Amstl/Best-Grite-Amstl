@@ -1,0 +1,1 @@
+{"username":"hahah","psw":"123456","check_psw":"123456","sex":"man","email":"244749112@qq.com","scoure":"html"}

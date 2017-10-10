@@ -1,0 +1,1 @@
+{"username":"dfds","psw":"123","check_psw":"123","sex":"man","email":"244749112@qq.com","scoure":"html"}
